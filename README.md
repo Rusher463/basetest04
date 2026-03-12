@@ -13,3 +13,5 @@ jobs:
   say-hello:
 runs-on: ubuntu-latest
     steps:
+- name: Run a one-line script
+        run: echo "Hello, GitHub Actions is working!"
