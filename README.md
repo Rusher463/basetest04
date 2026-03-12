@@ -11,3 +11,5 @@ name: Greeting
 on: [push] # Runs every time you push code
 jobs:
   say-hello:
+runs-on: ubuntu-latest
+    steps:
