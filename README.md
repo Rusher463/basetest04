@@ -1,7 +1,5 @@
 # basetest04
-ready 
-0
-..
+ready
 code
 1
 8
